@@ -5,7 +5,7 @@ import Weather from "./components/Weather";
 import  'bootstrap/dist/css/bootstrap.min.css';
 import "./App.css";
 
-const API_KEY = "4488a7803edff56d348a1f49eddbe95d";
+const API_KEY = "yourKey";
 //initialize component
 //Creating instance off app
 
